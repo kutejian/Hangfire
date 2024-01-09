@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Steven.HangFire.Core.props" />
+</Project>
